@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I'm Praveen Kumar B 👋 I'm Automation Test Engineer from India who passionate about developing automation frameworks and contributing to the open-source. I've worked on testing Mobile and Web Applications.
-
+I'm Praveen Kumar B 👋 I'm Software engineer from India who passionate about developing the websites and contributing to the open-source.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Automation Test Engirneer in Grasko Solutions pvt. ltd
+🔭 I’m currently working on Software engineer in Deloitte USI
 
 🌱 I’m currently learning new tech stacks
 
